@@ -1,0 +1,1 @@
+20. Sharpening Using Laplacian Mask with Negative Center Coefficient
